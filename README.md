@@ -1,4 +1,24 @@
-# coc8640b4ab7ea074c56f6bdc
+# Chrome Leads Extension
+
+## About the Project
+
+As part of Scrimba's Frontend Career Path, I built each part of this chrome extension for capturing sales leads alongside the instructor, and learned about how to build a more dynamic app in JS that interacts with the browser and local database.
+
+## What I Learned:
+
+- adding event listeners
+- converting code into template strings
+- localStorage
+- the JSON object
+- passing parameters into functions
+- innerHTML 
+- input.value
+- working with objects in arrays
+- working with Chrome API's
+
+## Reflection
+
+This project challenged me to think beyond the visual, visible parts of the app, and I really enjoyed the glimpse into working with databases and the browser. I'm looking forward to more practice with all of the elements that went into this project and being able to create more interesting Chrome extensions that solve creative problems. 
 
 ## About Scrimba
 
@@ -9,5 +29,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Our courses](https://scrimba.com/allcourses)
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
